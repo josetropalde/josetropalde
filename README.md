@@ -1,7 +1,7 @@
 # José Henrique Tropalde Rocha  
 **Software Engineer**  
 [![Email](https://img.shields.io/badge/Email-josehenrique.tropalde%40gmail.com-blue?style=flat&logo=gmail)](mailto:josehenrique.tropalde@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jose--henrique--tropalde-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/josetropalde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-josetropalde-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/josetropalde)
 
 ---
 
