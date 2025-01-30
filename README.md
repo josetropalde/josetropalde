@@ -21,7 +21,7 @@ I’m a passionate **Software Engineer** with **4+ years of experience** in full
 
 ### 📂 Highlighted Projects  
 
-#### **MetaBrotato** *(2022)*  
+#### ** [MetaBrotato](metabrotato.com)** *(2022)*  
 - Engineered a high-traffic platform with **Next.js and Vercel**, supporting **100k+ monthly visits**.  
 - Implemented SEO best practices, **improving organic search rankings by 50%**.  
 
