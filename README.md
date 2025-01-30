@@ -1,6 +1,6 @@
 # José Henrique Tropalde Rocha  
 **Software Engineer | Full-Stack Developer**  
-[![Email](https://img.shields.io/badge/Email-joschenrique.tropalde%40gmail.com-blue?style=flat&logo=gmail)](mailto:joschenrique.tropalde@gmail.com)
+[![Email](https://img.shields.io/badge/Email-josehenrique.tropalde%40gmail.com-blue?style=flat&logo=gmail)](mailto:josehenrique.tropalde@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jose--henrique--tropalde-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jose-henrique-tropalde)
 
 ---
@@ -11,7 +11,7 @@ I’m a passionate **Software Engineer** with **4+ years of experience** in full
 ---
 
 ### 🛠️ Technical Skills  
-- **Languages:** JavaScript, TypeScript
+- **Languages:** JavaScript, TypeScript  
 - **Frameworks & Tools:** React, Node.js, Next.js, HTML/CSS  
 - **Cloud & DevOps:** Vercel, Google Cloud Platform, CI/CD  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
@@ -21,7 +21,7 @@ I’m a passionate **Software Engineer** with **4+ years of experience** in full
 
 ### 📂 Highlighted Projects  
 
-#### ** [MetaBrotato](metabrotato.com)** *(2022)*  
+#### [MetaBrotato](https://metabrotato.com) *(2022)*  
 - Engineered a high-traffic platform with **Next.js and Vercel**, supporting **100k+ monthly visits**.  
 - Implemented SEO best practices, **improving organic search rankings by 50%**.  
 
