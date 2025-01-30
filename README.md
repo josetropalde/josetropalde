@@ -1,7 +1,7 @@
 # José Henrique Tropalde Rocha  
 **Software Engineer**  
 [![Email](https://img.shields.io/badge/Email-josehenrique.tropalde%40gmail.com-blue?style=flat&logo=gmail)](mailto:josehenrique.tropalde@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jose--henrique--tropalde-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jose-henrique-tropalde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jose--henrique--tropalde-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/josetropalde)
 
 ---
 
@@ -21,7 +21,7 @@ I’m a passionate **Software Engineer** with **4+ years of experience** in web 
 
 ### 📂 Highlighted Projects  
 
-#### **MetaBrotato** *(2022)*  
+#### **MetaBrotato**  
 A tier list guide to help new players.
 - **Website:** [View Live](https://metabrotato.com)
 
