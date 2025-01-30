@@ -1,16 +1,31 @@
-## Hi there 👋
+# José Henrique Tropalde Rocha  
+**Software Engineer | Full-Stack Developer**  
+[![Email](https://img.shields.io/badge/Email-joschenrique.tropalde%40gmail.com-blue?style=flat&logo=gmail)](mailto:joschenrique.tropalde@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jose--henrique--tropalde-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jose-henrique-tropalde)
 
-<!--
-**josetropalde/josetropalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨💻 About Me  
+I’m a passionate **Software Engineer** with **4+ years of experience** in full-stack development, dedicated to building scalable, high-performance solutions. My expertise spans optimizing infrastructure, enhancing user engagement, and driving technical excellence through collaboration. I thrive in dynamic environments where innovation and problem-solving are at the forefront.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills  
+- **Languages:** JavaScript, TypeScript
+- **Frameworks & Tools:** React, Node.js, Next.js, HTML/CSS  
+- **Cloud & DevOps:** Vercel, Google Cloud Platform, CI/CD  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Soft Skills:** Problem-solving, Team Collaboration  
+
+---
+
+### 📂 Highlighted Projects  
+
+#### **MetaBrotato** *(2022)*  
+- Engineered a high-traffic platform with **Next.js and Vercel**, supporting **100k+ monthly visits**.  
+- Implemented SEO best practices, **improving organic search rankings by 50%**.  
+
+---
+
+### 📬 Let’s Connect!  
+I’m always open to discussing tech, collaboration opportunities, or innovative ideas. Reach out via [email](mailto:josehenrique.tropalde@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/jose-henrique-tropalde).  
